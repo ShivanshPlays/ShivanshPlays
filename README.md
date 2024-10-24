@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=90&section=header"/>
 
-<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/shivansh-saxena-288785168/">Shivansh</a><img height="40" alt="shivansh" src="https://github.com/ShivanshPlays/ShivanshPlays/blob/main/assets/giphy.gif"/> </h1>
+<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/shivansh-saxena-288785168/">Shivansh</a><img height="40" alt="shivansh" src="https://github.com/ShivanshPlays/ShivanshPlays/giphy.gif"/> </h1>
 
 
 <!--- Adding Header Elements -->
