@@ -27,6 +27,9 @@
 
 <br/>
 
+[![An image of @shivanshplays's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shivanshplays)](https://holopin.io/@shivanshplays)
+
+<br/>
 
 <!------------------------------------------------------------------------------- Tools Section ------------------------------------------------------------------------------------------------ -->
 
