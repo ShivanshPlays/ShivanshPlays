@@ -15,7 +15,7 @@
 
 -----------------------------------------------------------
 👨🏻‍💻 **About Me**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
-✨ Full-Stack Web Developer | SDE Intern [@RDSO](https://rdso.indianrailways.gov.in/) <br>
+✨ Full-Stack Web Developer | ex-Summer Intern [@RDSO](https://rdso.indianrailways.gov.in/) <br>
 ⚡ Check my ✨ [Website](https://my-portfolio-khaki-beta-49.vercel.app/) <br>
 📫 How to reach me: [Mail me](mailto:shivanshsaxena2910@gmail.com) or Connect [LinkedIn](https://www.linkedin.com/in/shivansh-saxena-288785168/)<br>
 💬 Ask me about Web Development.<br>
