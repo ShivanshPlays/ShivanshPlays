@@ -6,7 +6,7 @@
   <img
     src="https://github.com/ShivanshPlays/ShivanshPlays/blob/main/giphy.gif"
     alt="shivansh"
-    style="height: auto; max-width: 25px; vertical-align: middle;"
+    style="height: 25px; max-width: 25px; vertical-align: middle;"
   />
 </h1>
 
