@@ -179,8 +179,8 @@
 
 <p align="center">
   <a href="https://buymeacoffee.com/shivanshplays" target="_blank">
-    <img src="[https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png](https://buymeacoffee.com/shivanshplays
-)" alt="Buy Me A Coffee" width="150"/>
+    <a src="https://buymeacoffee.com/shivanshplays
+">Thanks for your visit to my profile! If you appreciate my work, consider buying me a coffee. 😊</a>
   </a>
 </p>
 
