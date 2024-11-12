@@ -137,11 +137,14 @@
 
 | Projects | Deployed Link | Repository | Tech Stack & Tools |
 |:---------|:-------------:|:----------:|:-------------------|
-| VinodJewellers | [view](https://jewellery-store-bay.vercel.app/) | [view](https://github.com/ShivanshPlays/vinodJewellers) | `Next.js` `Typescript` `mongoDB` `prisma` | 
-| SyncEcom | [view](https://sync-ecom-3xpp2pbbk-shivanshplays-projects.vercel.app) | [view](https://github.com/ShivanshPlays/SyncEcom) | `Next.js` `Typescript` `mongoDB` `prisma` | 
-| MyPortfolio | [view](https://my-portfolio-khaki-beta-49.vercel.app/) | [view](https://github.com/ShivanshPlays/myPortfolio) | `Next.js` `Typescript` `mongoDB` `prisma` |
-| <!-- Add more projects as needed -->
-  
+| VinodJewellers | [view](https://jewellery-store-bay.vercel.app/) | [view](https://github.com/ShivanshPlays/vinodJewellers) | Next.js Typescript mongoDB prisma | 
+| SyncEcom | [view](https://sync-ecom-3xpp2pbbk-shivanshplays-projects.vercel.app) | [view](https://github.com/ShivanshPlays/SyncEcom) | Next.js Typescript mongoDB prisma | 
+| MyPortfolio | [view](https://my-portfolio-khaki-beta-49.vercel.app/) | [view](https://github.com/ShivanshPlays/myPortfolio) | Next.js Typescript mongoDB prisma |
+| TheStoryJunction | [view](https://medium-clone-blog-website.vercel.app/) | [view](https://github.com/ShivanshPlays/TheStoryJunction) | React.js JavaScript Typescript Node.js |
+| JQuery-SimonGame | [view](https://shivanshplays.github.io/jQuery-SimonGame/) | [view](https://github.com/ShivanshPlays/jQuery-SimonGame) | JavaScript HTML CSS |
+| JS-DiceGame | [view](https://shivanshplays.github.io/JS-DiceGame/) | [view](https://github.com/ShivanshPlays/JS-DiceGame) | JavaScript HTML CSS |
+| JS-DrumKit | [view](https://shivanshplays.github.io/JS-DrumKit/) | [view](https://github.com/ShivanshPlays/JS-DrumKit) | JavaScript CSS HTML |
+
 </details>
 
 <details>
@@ -157,3 +160,35 @@
 </div>
 
 </details>
+
+<p align="center">
+   <a>
+     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivanshplays&theme=radical" alt="shivanshplays" /></p>
+   </a>
+</p>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivanshplays&theme=synthwave-84&true&hide_border=true" />
+</div>
+
+<hr>
+
+<p align="center">
+  <b>Thanks for your visit to my profile! If you appreciate my work, consider buying me a coffee. 😊</b>
+</p>
+
+<p align="center">
+  <a href="https://buymeacoffee.com/shivanshplays" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150"/>
+  </a>
+</p>
+
+<hr>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=shivanshplays&color=red" alt="Total Github views" />
+
+
+
+
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1283D1&height=80&section=footer"/>
