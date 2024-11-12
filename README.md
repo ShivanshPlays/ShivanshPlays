@@ -23,6 +23,8 @@
   <a href="https://gssoc-stats-gen.vercel.app/"><img src="https://img.shields.io/badge/GSSoC_stats_Generator-8957E5?style=flat&logoColor=white"></a>
   <a href="https://wakatime.com/@9a827e04-5df8-4525-ace8-e88326bbf87a"><img src="https://wakatime.com/badge/user/9a827e04-5df8-4525-ace8-e88326bbf87a.svg" alt="Total time coded since May 29 2024" /></a>
 </div>
+
+![Github-Grid](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2Fyashksaini-codereece3.png?alt=media)
 <br>
 <p align="center">
   <a href="https://my-portfolio-khaki-beta-49.vercel.app/">Portfolio</a> -
