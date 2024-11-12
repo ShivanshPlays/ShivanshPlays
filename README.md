@@ -157,10 +157,7 @@
   <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shivanshplays&theme=radical">
   <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shivanshplays&theme=radical&utcOffset=8">
   <img height="169em" src="https://github-readme-stats.vercel.app/api?username=shivanshplays&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
-</div>
-
-</details>
-
+  
 <p align="center">
    <a>
      <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivanshplays&theme=radical" alt="shivanshplays" /></p>
@@ -170,6 +167,10 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivanshplays&theme=synthwave-84&true&hide_border=true" />
 </div>
+</div>
+
+</details>
+
 
 <hr>
 
