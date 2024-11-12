@@ -179,7 +179,8 @@
 
 <p align="center">
   <a href="https://buymeacoffee.com/shivanshplays" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150"/>
+    <img src="[https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png](https://buymeacoffee.com/shivanshplays
+)" alt="Buy Me A Coffee" width="150"/>
   </a>
 </p>
 
