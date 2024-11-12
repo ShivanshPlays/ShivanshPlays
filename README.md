@@ -19,7 +19,7 @@
   <a href="mailto:shivanshsaxena2910@gmail.com">Contact me</a> 
 </p>
 
-<details>
+
   👨🏻‍💻 About Me
   
   - ✨ Full-Stack Web Developer | ex-Summer Intern [@RDSO](https://rdso.indianrailways.gov.in/)
@@ -30,7 +30,7 @@
   - 🎯 **2024 Vision:** Dive deeper into **React**, **Next.js**, and ace **Data Structures & Algorithms**.  
   - 🎉 **Fun Fact:** I'm always up for networking and love making meaningful connections in the tech world!
 
-</details>
+
 
 <details>
 <summary>GSSOC(24) Badges 🪶</summary>
