@@ -20,7 +20,7 @@
 </p>
 
 <details>
-<summary>👨🏻‍💻 About Me</summary>
+  👨🏻‍💻 About Me
   
   - ✨ Full-Stack Web Developer | ex-Summer Intern [@RDSO](https://rdso.indianrailways.gov.in/)
   - ⚡ Check my ✨ [Website](https://my-portfolio-khaki-beta-49.vercel.app/)
@@ -33,24 +33,23 @@
 </details>
 
 <details>
-<summary>🛒 Ezyshop Project</summary>
-
-**Ezyshop – Bringing Every Store to your Door**  
-I've contributed extensively to **[Ezyshop](https://github.com/mdazfar2/Ezyshop)**, a feature-rich e-commerce platform. My work involved backend development, payment integration, and overall system architecture. Check out the live deployment [here](https://ezyshopz.vercel.app/). This project is a testament to my skills in building scalable, secure, and seamless web solutions for modern e-commerce businesses.
-
-</details>
-
-<details>
 <summary>GSSOC(24) Badges 🪶</summary>
 
-<div align="center">
-  <a href="https://gssoc.girlscript.tech/leaderboard">
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
-    <!-- Add remaining images here -->
-  </a>
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="105px" height="105px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a>
 </div>
+
 
 [![An image of @shivanshplays's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shivanshplays)](https://holopin.io/@shivanshplays)
 
