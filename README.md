@@ -178,8 +178,7 @@
 </p>
 
 <p align="center">
-  <a href="[https://buymeacoffee.com/shivanshplays](https://buymeacoffee.com/shivanshplays
-)" target="_blank">
+  <a href="https://buymeacoffee.com/shivanshplays" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150"/>
   </a>
 </p>
