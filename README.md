@@ -58,8 +58,8 @@
 <details>
 <summary>Tools & Technology</summary>
 
-<table align="center">
-  <tr>
+<table align="center" class="table table-dark">
+  <tr bg-dark>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=nextjs" alt="icon" width="55" height="55" />
       <br>Next JS
@@ -72,9 +72,63 @@
       <img src="https://skillicons.dev/icons?i=ts" alt="icon" width="55" height="55" />
       <br>TypeScript
     </td>
-    <!-- Add more tools as needed -->
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=express" alt="icon" width="55" height="55" />
+      <br>Express JS
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nodejs" alt="icon" width="55" height="55" />
+      <br>Node JS
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=prisma" alt="icon" width="55" height="55" />
+      <br>Prisma
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=mongodb" alt="icon" width="55" height="55" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=postgresql" alt="icon" width="55" height="55" />
+      <br>PostgreSQL
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=redux" alt="icon" width="55" height="55" />
+      <br>Redux
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=aws" alt="icon" width="55" height="55" />
+      <br>AWS
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=angular" width="55" height="55" alt="md" />
+      <br>Angular
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=docker" alt="icon" width="55" height="55" />
+      <br>Docker
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=kubernetes" alt="icon" width="55" height="55" />
+      <br>Kubernetes
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=git" alt="icon" width="55" height="55" />
+      <br>Git
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=figma" alt="icon" width="55" height="55" />
+      <br>Figma
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=vite" alt="icon" width="55" height="55" />
+      <br>Vite
+    </td>
   </tr>
 </table>
+
 
 </details>
 
