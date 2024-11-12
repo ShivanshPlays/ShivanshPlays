@@ -1,10 +1,14 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=90&section=header"/>
 
-<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/shivansh-saxena-288785168/">Shivansh</a><img
-  src="https://github.com/ShivanshPlays/ShivanshPlays/blob/main/giphy.gif"
-  alt="shivansh"
-  style="height: auto; width: 100%; max-width: 40px;"
-/></h1>
+<h1 align="center"> 
+  Hi there, I'm 
+  <a href="https://www.linkedin.com/in/shivansh-saxena-288785168/">Shivansh</a>
+  <img
+    src="https://github.com/ShivanshPlays/ShivanshPlays/blob/main/giphy.gif"
+    alt="shivansh"
+    style="height: auto; max-width: 25px; vertical-align: middle;"
+  />
+</h1>
 
 
 <!--- Adding Header Elements -->
