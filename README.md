@@ -11,7 +11,7 @@
 </h1>
 <br>
 <p align="center">
-  <a href="https://my-portfolio-khaki-beta-49.vercel.app/">Portfolio</a> -
+  <a href="https://www.shivanshsaxena.tech/">Portfolio</a> -
   <a href="https://www.linkedin.com/in/shivansh-saxena-288785168/">LinkedIn</a> - 
   <a href="https://x.com/ShivanshPlays">Twitter</a> -
   <a href="https://leetcode.com/u/shivanshplays/">Leetcode</a> -
@@ -24,7 +24,7 @@
 - 💼 **Software Engineer at [CANOPI](https://canopi.in/)** (Present)
 - 🏢 **Fullstack Developer at GEOSOFTECH** (Jan 2025 – May 2025)
 - ✨ **Summer Intern at [@RDSO](https://rdso.indianrailways.gov.in/)** (June 2024 – July 2024)
-- ⚡ Check my ✨ [Website](https://my-portfolio-khaki-beta-49.vercel.app/)
+- ⚡ Check my ✨ [Website](https://www.shivanshsaxena.tech/)
 - 📫 How to reach me: [Mail me](mailto:shivanshsaxena2910@gmail.com) or Connect [LinkedIn](https://www.linkedin.com/in/shivansh-saxena-288785168/)
 - 💬 Ask me about Web Development.
 - 🤝 **Open to:** Collaborations with **passionate developers**, startups, and open-source communities.  
