@@ -19,17 +19,17 @@
   <a href="mailto:shivanshsaxena2910@gmail.com">Contact me</a> 
 </p>
 
+### 👨🏻‍💻 About Me
 
-  👨🏻‍💻 About Me
-  
-  - ✨ Full-Stack Web Developer | ex-Summer Intern [@RDSO](https://rdso.indianrailways.gov.in/)
-  - ⚡ Check my ✨ [Website](https://my-portfolio-khaki-beta-49.vercel.app/)
-  - 📫 How to reach me: [Mail me](mailto:shivanshsaxena2910@gmail.com) or Connect [LinkedIn](https://www.linkedin.com/in/shivansh-saxena-288785168/)
-  - 💬 Ask me about Web Development.
-  - 🤝 **Open to:** Collaborations with **passionate developers**, startups, and open-source communities.  
-  - 🎯 **2024 Vision:** Dive deeper into **React**, **Next.js**, and ace **Data Structures & Algorithms**.  
-  - 🎉 **Fun Fact:** I'm always up for networking and love making meaningful connections in the tech world!
-
+- 💼 **Software Engineer at [CANOPI](https://canopi.in/)** (Present)
+- 🏢 **Fullstack Developer at GEOSOFTECH** (Jan 2025 – May 2025)
+- ✨ Full-Stack Web Developer | ex-Summer Intern [@RDSO](https://rdso.indianrailways.gov.in/)
+- ⚡ Check my ✨ [Website](https://my-portfolio-khaki-beta-49.vercel.app/)
+- 📫 How to reach me: [Mail me](mailto:shivanshsaxena2910@gmail.com) or Connect [LinkedIn](https://www.linkedin.com/in/shivansh-saxena-288785168/)
+- 💬 Ask me about Web Development.
+- 🤝 **Open to:** Collaborations with **passionate developers**, startups, and open-source communities.  
+- 🎯 **2024 Vision:** Dive deeper into **React**, **Next.js**, and ace **Data Structures & Algorithms**.  
+- 🎉 **Fun Fact:** I'm always up for networking and love making meaningful connections in the tech world!
 
 
 <details>
