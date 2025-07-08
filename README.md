@@ -23,7 +23,7 @@
 
 - 💼 **Software Engineer at [CANOPI](https://canopi.in/)** (Present)
 - 🏢 **Fullstack Developer at GEOSOFTECH** (Jan 2025 – May 2025)
-- ✨ Full-Stack Web Developer | ex-Summer Intern [@RDSO](https://rdso.indianrailways.gov.in/)
+- ✨ **Summer Intern at [@RDSO](https://rdso.indianrailways.gov.in/)** (June 2024 – July 2024)
 - ⚡ Check my ✨ [Website](https://my-portfolio-khaki-beta-49.vercel.app/)
 - 📫 How to reach me: [Mail me](mailto:shivanshsaxena2910@gmail.com) or Connect [LinkedIn](https://www.linkedin.com/in/shivansh-saxena-288785168/)
 - 💬 Ask me about Web Development.
